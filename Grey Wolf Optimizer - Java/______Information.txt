@@ -1,0 +1,17 @@
+Java code of Grey Wolf Optimizer  
+Developed by Oðuz Emrah Turgut (oeturgut@hotmail.com)
+
+Reference to the article entitled as 
+  " Seyedali Mirjalili, Seyed Mohammad Mirjalili , Andrew Lewis, Grey Wolf Optimizer,
+    Advances in Engineering Software 69 (2014) 46–61 "
+
++ This is the simple and pure version of the Grey Wolf Optimizer  Java code. 
++ Alterations or any damage to this version of the code is not under responsibility of the developer.
++ This code is not developed for any merchandising attempts, only to guide for users who making research on metaheuristic algorithms
++ Includes multidimensional optimization benchmark functions to assess the performance of the proposed method
++ It also uses a numerical package "Matrix.java" to accomplish matrix operations
+  
+   
+
+
+
